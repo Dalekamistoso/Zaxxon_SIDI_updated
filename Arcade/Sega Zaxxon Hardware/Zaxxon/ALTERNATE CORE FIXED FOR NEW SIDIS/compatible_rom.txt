@@ -1,0 +1,7 @@
+Use this rom:
+
+sha1:
+
+b3e18cccab82e437769dde751130f1b4363da00d *zaxxon.rom
+
+Size 942 KB (964.762 bytes)

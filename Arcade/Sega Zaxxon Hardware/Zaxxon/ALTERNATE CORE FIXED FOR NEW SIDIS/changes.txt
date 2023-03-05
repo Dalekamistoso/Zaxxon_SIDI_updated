@@ -1,0 +1,4 @@
+This core is more compatible adding the following changes (Thanks to Carlos Palmero):
+
+* Activate Global Clock
+* synthesized options-> Aggresive Perfomance (instead of balanced)
